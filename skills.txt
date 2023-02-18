@@ -1,0 +1,10 @@
+Theory of testing
+Client-server architecture
+Mobile testing
+Web testing
+Anroid, iOS emalator, simulator
+VPN, Proxy
+JSON, XML
+Linux terminal
+SQL
+Python
