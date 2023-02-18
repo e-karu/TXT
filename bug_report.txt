@@ -1,1 +1,11 @@
-
+ID: BR-8
+Title: No QR-code in popup window
+Description: No QR-code in popup App dowload in Header of page
+Expected result: QR-code to scan is displayed
+Actual result: No picture of QR-code in popup App download in Header of page
+Severity: Minor
+Priority: Low
+Environment: OS: Windows 11 21H2 22000.1516
+Steps: 1. Open main page www.capital.com. 2. Click on App download in Header
+Attachments: Link on pic
+Reproducibility: 1/10
